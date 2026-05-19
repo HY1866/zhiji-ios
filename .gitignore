@@ -1,0 +1,90 @@
+# ============================================
+# Xcode
+# ============================================
+# Xcode build artifacts
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.xcarchive
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.swiftpm/
+
+# ============================================
+# macOS
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ============================================
+# Windows
+# ============================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ============================================
+# 智记项目
+# ============================================
+output/
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ============================================
+# IDE
+# ============================================
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# ============================================
+# Logs
+# ============================================
+*.log
+logs/
+
+# ============================================
+# 讯飞SDK (可选 - 根据需要是否忽略)
+# ============================================
+# lib/iflyMSC.framework

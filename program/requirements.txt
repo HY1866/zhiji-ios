@@ -1,0 +1,14 @@
+# 智记 (ZhiJi) Python 依赖
+# 版本: v1.4 (2026-05-16)
+
+# 语音识别库
+faster-whisper
+
+# GTK3 GUI 绑定
+PyGObject
+
+# 讯飞在线识别 WebSocket 连接
+websocket-client
+
+# 拼音转换（用于离线库匹配）
+pypinyin
